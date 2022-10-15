@@ -1,0 +1,19 @@
+#second {
+  color: #00f;
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: #00f030;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.odds {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: #f08080;
+}
+
+.cooler {
+  font-size: 24px;
+}
